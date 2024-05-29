@@ -88,6 +88,30 @@ The system block diagram provides a high-level overview of the key components an
 
 ![System Block Diagram](images/System_block_diagram.png)
 
+## Snapshots
+
+Here are some snapshots of the system in action:
+
+- **Home Page/Login page**:
+  ![Login page](path/to/Screenshot_2024-05-29_174518.png)
+- **Admin page**:
+  ![Admin page](path/to/Screenshot_2024-05-29_174546.png)
+- **Register New case**:
+  ![Register New case](path/to/Screenshot_2024-05-29_174604.png)
+- **All cases view**:
+  ![All cases view](path/to/Screenshot_2024-05-29_174604.png)
+- **Public Reporting Interface**:
+  ![Public Reporting Interface ](path/to/Screenshot_2024-05-29_174604.png)
+- **Public Reporting**:
+  ![Public Reporting Interface ](path/to/Screenshot_2024-05-29_174604.png)
+- **Public Reporting_Interface**:
+  ![Public Reporting Interface ](path/to/Screenshot_2024-05-29_174604.png)
+- **Checking For Match**:
+  ![Public Reporting Interface ](path/to/Screenshot_2024-05-29_174604.png)
+  - ** Match Found**:
+  ![Public Reporting Interface ](path/to/Screenshot_2024-05-29_174604.png)
+
+
 ## Usage
 
 To use the system, follow these steps:
@@ -99,6 +123,12 @@ To use the system, follow these steps:
 5. The system will perform facial recognition and analysis, comparing the uploaded images with the database of missing persons.
 6. If a match is found, the relevant authorities will be notified, and the details of the potential sighting will be shared.
 
+## Contact
+
+For any inquiries or support, please contact:
+
+- **Email**: moizzbaig613@gmail.com, zumarepasha000@gmail.com
+
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
@@ -107,4 +137,7 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Special Thanks
+
+Special thanks to [gaanmanku96] for their invaluable assistance and contributions to this project.
 
