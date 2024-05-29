@@ -1,5 +1,9 @@
 # Finding Missing Persons Using AI
 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/python-3.x-blue)
+
+
 This repository contains the implementation of a novel AI-based system designed to aid in the search and recovery of missing persons, particularly children. The system leverages advanced technologies such as machine learning and computer vision to identify and match missing individuals with potential sightings or available images from various sources, including surveillance cameras, social media platforms, and public databases.
 
 ## Table of Contents
