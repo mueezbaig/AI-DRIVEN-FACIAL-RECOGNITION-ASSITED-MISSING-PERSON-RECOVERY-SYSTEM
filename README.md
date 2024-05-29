@@ -14,8 +14,10 @@ This repository contains the implementation of a novel AI-based system designed 
  - [Match Cases](#match-cases)
 - [Flow Chart](#flow-chart)
 - [System Block Diagram](#system-block-diagram)
+- [Snapshots](#snapshots)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Contact](#contact)
 - [License](#license)
 
 ## Introduction
@@ -64,8 +66,7 @@ The project utilizes Python virtual environments to manage dependencies and pack
 The project leverages Streamlit, a Python-based library specifically designed for machine learning engineers, to rapidly build and share beautiful web applications. Streamlit allows for the creation of stunning applications with minimal code, making it an ideal choice for data scientists and machine learning engineers who are not web developers.
 
 To run the application, execute the following command:
-```bash
-    streamlit run Home.py
+```streamlit run Home.py```
 
 ### Match Cases
 
