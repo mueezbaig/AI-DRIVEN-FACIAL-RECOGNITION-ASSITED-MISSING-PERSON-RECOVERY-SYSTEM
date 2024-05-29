@@ -88,6 +88,37 @@ The system block diagram provides a high-level overview of the key components an
 
 ![System Block Diagram](images/System_block_diagram.png)
 
+## Snapshots
+
+Here are some snapshots of the system in action:
+
+- **Home Page/Login Page**:
+  ![Home Page](./images/Login%20page.png)
+
+- **Admin Page**:
+  ![Admin Page](./images/admin_page.png)
+
+- **Register a case**:
+  ![Registercase](./images/register_new_cases.png)
+
+- **case registration**:
+  ![caseregister](./images/case_register.png)
+
+- **All cases view**:
+  ![viewcases](./images/all_cases_view.png)
+
+- **Public Reporting Interface**:
+![PublicInterface](./images/public_reporting_Interface.png)
+
+- **Public Reporting**:
+![PublicInterfaceReporting](./images/public_reporting.png)
+
+- **Check for match**:
+![Match](./images/match_found.png)
+
+- **Match Found**:
+![MatchFound](./images/check_for_match.png)
+
 
 ## Usage
 
@@ -103,6 +134,18 @@ To use the system, follow these steps:
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## Contact
+
+For any inquiries or support, please contact:
+
+- **Email**: moizzbaig613@gmail.com
+  **Email**: zumarepasha000@gmail.com
+- **Project Maintainer**: Prof Sariya anjum[DEPT OF CSE, MRIT]
+
+## Special Thanks
+
+Special thanks to [Gagan Sir](gaganmanku96) for their invaluable assistance and contributions to this project.
 
 ## License
 
